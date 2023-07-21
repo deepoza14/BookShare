@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bookshare/bookshare.iml" filepath="$PROJECT_DIR$/bookshare/bookshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookshare/android/bookshare_android.iml" filepath="$PROJECT_DIR$/bookshare/android/bookshare_android.iml" />
+    </modules>
+  </component>
+</project>
