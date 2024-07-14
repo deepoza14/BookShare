@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
   
     apiFunction() async {
-      const url = "https://dummyjson.com/products";
+      const url = "";
 
     final response = await http.get(Uri.parse(url));
     final responseData = json.decode(response.body);
